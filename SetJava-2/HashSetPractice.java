@@ -1,6 +1,7 @@
 import java.util.HashSet;
 import java.util.Iterator;
 
+
 class HashSetPractice {
 	public static void main(String[] args) {
 		HashSet<String> Car = new HashSet<String>();
@@ -11,8 +12,8 @@ class HashSetPractice {
 		Car.add("Skoda Rapid");
 
 		Iterator<String> itr = Car.iterator();
-
-		while (itr.hasNext()) {
+       
+        while (itr.hasNext()) {
 			System.out.println(itr.next());
 		}
 	}
