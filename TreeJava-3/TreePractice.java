@@ -57,11 +57,9 @@ public class TreePractice {
 	}
 }
 
-class Node {
-	Node left, right;
-	int data;
-
-	public Node(int data) {
+class Node{
+	Node left,right;
+	public Node(int data){
 		this.data = data;
 	}
 }
