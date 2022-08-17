@@ -10,6 +10,11 @@
  * 13 14 15 16
  */
 
+/* 1.Start printing from first row.
+   2.Print row and columns, forward and backward alternatively
+   3.With every iteration of (either row or column), reduce the size of an row or column by 1
+   4.Call recursively*/
+
 
 // Java program to print a given 2D array in spiral form
 import java.io.*;
