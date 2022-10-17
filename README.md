@@ -1,1 +1,2 @@
-#Basic Data Structures and  Algorithims Problems that every beginner should try
+# Basic Data Structures and  algorithms Problems that every beginner should try
+## This project contains my solutions to various data structures and algorithms problems. The solutions are implemented in Java.
